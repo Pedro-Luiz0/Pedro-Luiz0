@@ -34,7 +34,7 @@ Me chamo Pedro Luiz Sousa Santos, tenho 16 anos e sou de São Paulo. Concluí o 
 </a>
 
 <!-- Gmail -->
-<a href="mailto:danielpaes299@gmail.com?subject=Contato%20via%20GitHub">
+<a href="mailto:pedroluizsousasantos@gmail.com?subject=Contato%20via%20GitHub">
   <img 
     alt="Gmail" 
     title="Me envie um email" 
