@@ -43,7 +43,7 @@ Me chamo Pedro Luiz Sousa Santos, tenho 16 anos e sou de São Paulo. Concluí o 
 </a>
 
 <!-- Estrelas GitHub -->
-<a href="https://github.com/Danielpaes2?tab=repositories" target="_blank">
+<a href="https://github.com/Pedro-Luiz0?tab=repositories" target="_blank">
   <img 
     alt="Total de estrelas" 
     title="Total de estrelas no GitHub" 
