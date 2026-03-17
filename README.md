@@ -2,12 +2,12 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pedro Luiz Sousa Santos, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática para internet.
+Me chamo Pedro Luiz Sousa Santos, tenho 16 anos e sou de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática para internet.
 
 <p align="center">
 
 <!-- Instagram -->
-<a href="https://www.instagram.com/danielpaes_bjj/" target="_blank">
+<a href="https://www.instagram.com/saints.pl7?utm_source=qr&igsh=ZzBsZ2cyeXA2dG5u" target="_blank">
   <img 
     alt="Instagram" 
     title="Me siga no Instagram" 
@@ -52,7 +52,7 @@ Me chamo Pedro Luiz Sousa Santos, tenho 18 anos e sou natural de São Paulo. Con
 </a>
 
 <!-- Seguidores GitHub -->
-<a href="https://github.com/Danielpaes2?tab=followers" target="_blank">
+<a href="https://github.com/Pedro-Luiz0?tab=followers" target="_blank">
   <img 
     alt="Seguidores" 
     title="Me siga no GitHub" 
@@ -92,30 +92,6 @@ Me chamo Pedro Luiz Sousa Santos, tenho 18 anos e sou natural de São Paulo. Con
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -142,14 +118,14 @@ Me chamo Pedro Luiz Sousa Santos, tenho 18 anos e sou natural de São Paulo. Con
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=danielpaes2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=pedro-luiz0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpaes2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-luiz0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
