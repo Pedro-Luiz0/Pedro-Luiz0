@@ -118,7 +118,7 @@ Me chamo Pedro Luiz Sousa Santos, tenho 16 anos e sou de São Paulo. Concluí o 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pedro-luiz0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Pedro-Luiz0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
