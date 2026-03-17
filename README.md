@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Pedro Luiz
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Pedro Luiz Sousa Santos, tenho 16 anos e sou de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática para internet.
 
