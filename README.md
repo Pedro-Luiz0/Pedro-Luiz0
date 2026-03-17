@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Daniel Paes
+# 👩🏻‍💻 Pedro Luiz
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Daniel Paes Santos, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática para internet.
+Me chamo Pedro Luiz Sousa Santos, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática para internet.
 
 <p align="center">
 
