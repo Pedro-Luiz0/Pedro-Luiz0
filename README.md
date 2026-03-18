@@ -64,7 +64,7 @@ Me chamo Pedro Luiz Sousa Santos, tenho 16 anos e sou de São Paulo. Estou fazen
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Estudando
 
 <img 
     align="left" 
