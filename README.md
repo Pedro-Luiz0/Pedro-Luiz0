@@ -29,7 +29,7 @@ $ Sobre
 
 ---
 
-## ⚡ `stack.log`
+## ⚡ `Stacks`
 
 ![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,7 +41,7 @@ $ Sobre
 
 ---
 
-## 📊 `skills.progress`
+## 📊 `Skills`
 
 ```
 Lógica / Algoritmos  ████████████████░░░░  78%
