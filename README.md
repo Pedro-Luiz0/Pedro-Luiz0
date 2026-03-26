@@ -17,10 +17,10 @@
 
 ---
 
-## 💻 `whoami`
+## 💻 `Quem eu sou?`
 
 ```bash
-$ cat sobre.txt
+$ Sobre
 ```
 
 > Estudante de desenvolvimento de software em constante evolução.
