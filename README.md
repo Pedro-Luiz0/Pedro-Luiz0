@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=👾+Bem-vindo+ao+meu+GitHub;🚀+Futuro+Full+Stack;💻+Criando+coisas+incríveis;⚡+Modo+Hacker+Ativado"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=👾+Bem-vindo+ao+meu+GitHub;🚀+Futuro+Full+Stack;💻+Criando+coisas+incríveis;⚡+Modo+Neon+Ativado"/>
 </p>
 
 ---
