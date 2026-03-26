@@ -57,7 +57,7 @@ Banco de Dados       ████████░░░░░░░░░░░�
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=chartreuse-dark&bg_color=020c06&title_color=00FF41&text_color=b0ffb8&icon_color=00FF41&border_color=00FF41)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Luiz0&show_icons=true&theme=chartreuse-dark&bg_color=020c06&title_color=00FF41&text_color=b0ffb8&icon_color=00FF41&border_color=00FF41)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=chartreuse-dark&bg_color=020c06&title_color=00FF41&text_color=b0ffb8&border_color=00FF41)
 
