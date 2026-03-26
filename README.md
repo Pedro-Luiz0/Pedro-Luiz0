@@ -31,12 +31,10 @@ $ Sobre
 
 ## ⚡ `Stacks`
 
-![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-00FF41?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-00FF41?style=for-the-badge&logo=css3&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-00FF41?style=for-the-badge&logo=git&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-00FF41?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VSCode-00FF41?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 ---
