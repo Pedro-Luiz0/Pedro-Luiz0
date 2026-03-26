@@ -61,7 +61,7 @@ $ Sobre
 
 
 
-*"The quieter you become, the more you can hear."*
+*"Quanto mais silencioso você se torna, mais você consegue ouvir."*
 
 `// Pedro Luiz · README.md`
 
