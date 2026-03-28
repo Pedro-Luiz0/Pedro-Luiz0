@@ -38,7 +38,11 @@ $ Sobre
 ![VS Code](https://img.shields.io/badge/VSCode-00FF41?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 ---
+## --- Minhas estatísticas
+![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=Pedro-Luiz0&show_icons=true&theme=chartreuse-dark&bg_color=020c06&title_color=00FF41&text_color=b0ffb8&icon_color=00FF41&border_color=00FF41)
 
+
+---
 ## 📈 `Status`
 
 
